@@ -86,7 +86,7 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 
 <p align="center">
     <b>Aidan - Livxy</b><br><a href="https://github.com/livxy">https://github.com/livxy</a><br>
-    <img src="https://user-images.githubusercontent.com/67598470/201500408-300515cf-83a3-4c44-9749-d58736f67b55.png" alt="Aidan - Livxy" width=50% height=50%>
+    <img src="https://user-images.githubusercontent.com/67598470/201500408-300515cf-83a3-4c44-9749-d58736f67b55.png" alt="Aidan - Livxy" width=25% height=25%>
   </a>
 </p>
 
