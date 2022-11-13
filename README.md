@@ -9,9 +9,9 @@
 <p align="center">
     A simple, yet effective, discord bot for misc. tasks
         <br>
-        <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+        <a href="https://github.com/livxy/Bruh-Bot/issues/new?assignees=&labels=&template=bug_report.md&title=">Report bug</a>
         ·
-        <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+        <a href="https://github.com/livxy/Bruh-Bot/issues/new?assignees=&labels=&template=feature_request.md&title=">Request feature</a>
     </p>
 </p>
 
