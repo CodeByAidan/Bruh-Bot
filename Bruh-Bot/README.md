@@ -5,7 +5,7 @@
   </a>
 
 <b><h3 align="center">Bruh Bot</h3></b>
-
+ 
 <p align="center">
     A simple, yet effective, discord bot for misc. tasks
         <br>
