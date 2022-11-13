@@ -12,12 +12,14 @@
         <a href="https://github.com/livxy/Bruh-Bot/issues/new?assignees=&labels=&template=bug_report.md&title=">Report bug</a>
         ·
         <a href="https://github.com/livxy/Bruh-Bot/issues/new?assignees=&labels=&template=feature_request.md&title=">Request feature</a>
-        <br>
+        <br><br>
         <a href="https://github.com/livxy/Bruh-Bot"><img alt="Code Size" src="https://img.shields.io/github/repo-size/livxy/Bruh-Bot" /></a>
         <a href="https://github.com/livxy/Bruh-Bot"><img alt="Code Size" src="https://img.shields.io/github/directory-file-count/livxy/Bruh-Bot" /></a>
-        <a href alt="https://github.com/livxy/Bruh-Bot"><img alt="Lines of Code" src="https://img.shields.io/tokei/lines/github/livxy/Bruh-Bot" /></a>
+        <a href="https://github.com/livxy/Bruh-Bot"><img alt="Code Size" src="https://tokei.ekzhang.com/b1/github/livxy/Bruh-Bot" /></a>
     </p>
 </p>
+
+<!-- center markdown -->
 
 ## Table of contents
 
