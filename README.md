@@ -19,8 +19,6 @@
     </p>
 </p>
 
-<!-- center markdown -->
-
 ## Table of contents
 
 - [Bruh-Bot](#bruh-bot)
@@ -58,7 +56,7 @@
 
 ## Planned features
 
-- Dashboard
+- Dashboard <-- bro i am not doing php plz :sob: -->
 
 - Automod
 - Logging
