@@ -75,18 +75,8 @@ Simple and fast! Just follow the instructions below and you'll be up and running
 
 - `python3 bot.py`
 
-## Planned features
+## Features
 
-<-- - Dashboard <-- bro i am not doing php plz :sob: -->
-
-- Automod
-- Logging
-- Memes
-- SMS messages
-- YouTube video player
-- Polls
-- Game Center
-- and much more... -->
 - Weather
 - Member Count
 
