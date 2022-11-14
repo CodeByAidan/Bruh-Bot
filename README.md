@@ -56,8 +56,13 @@
 
 ## Features
 
-- Weather
-- Member Count
+➣ Weather
+
+<img src="https://user-images.githubusercontent.com/67598470/201565457-c9c82379-f970-433f-af16-5f879dc5a185.png" alt="Weather Example" width=35% height=35%>
+➣ Member Count
+
+<img src="https://user-images.githubusercontent.com/67598470/201565610-7d06afeb-d1af-48bf-9a0c-5c258399864c.png" alt="Member Example" width=35% height=35%>
+
 
 ## What's included
 
