@@ -5,7 +5,7 @@
   </a>
 
 <b><h3 align="center">Bruh Bot</h3></b>
- 
+
 <p align="center">
     A simple, yet effective, discord bot for misc. tasks
         <br>
@@ -75,12 +75,17 @@ Inside the installed folder, you can expect the following (in the respective for
 📦Bruh-Bot
  ┣ 📂src
  ┃ ┣ 📂cogs
+ ┃ ┃ ┗ 📂Info
+ ┃ ┃ ┃ ┣ 📜Members.py
+ ┃ ┃ ┃ ┗ 📜Weather.py
  ┃ ┗ 📜bot.py
+ ┣ 📜.env
+ ┣ 📜.gitattributes
  ┣ 📜.gitignore
  ┣ 📜LICENSE
  ┣ 📜README.md
  ┗ 📜requirements.txt
-```
+ ```
 
 ## Bugs and feature requests
 

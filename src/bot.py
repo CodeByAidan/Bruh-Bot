@@ -28,6 +28,7 @@ for filename in os.listdir(r"src\cogs\Info"):
 
 # Get total amount of members from all servers
 
+
 @bot.event
 async def on_ready():
     os.system("cls")
@@ -36,7 +37,8 @@ async def on_ready():
     statement = "servers" if len(bot.guilds) > 1 else "server"
     await bot.change_presence(
         activity=discord.Activity(
-            type=discord.ActivityType.watching, name=f"{len(bot.guilds)} {statement} and {len(bot.users)} users"
+            type=discord.ActivityType.watching,
+            name=f"{len(bot.guilds)} {statement} and {len(bot.users)} users",
         )
     )
 
