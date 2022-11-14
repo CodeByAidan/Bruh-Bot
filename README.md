@@ -77,7 +77,7 @@ Simple and fast! Just follow the instructions below and you'll be up and running
 
 ## Planned features
 
-- Dashboard <-- bro i am not doing php plz :sob: -->
+<-- - Dashboard <-- bro i am not doing php plz :sob: -->
 
 - Automod
 - Logging
@@ -86,7 +86,9 @@ Simple and fast! Just follow the instructions below and you'll be up and running
 - YouTube video player
 - Polls
 - Game Center
-- and much more...
+- and much more... -->
+- Weather
+- Member Count
 
 ## What's included
 
