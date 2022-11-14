@@ -33,6 +33,7 @@
   - [Copyright and license](#copyright-and-license)
 
 ## Quick start
+
 ### Instructions
 
 1. Clone the repository
@@ -47,11 +48,21 @@
 - e.g. use link: `https://discord.com/oauth2/authorize?client_id=[your client id here]&scope=bot%20applications.commands&permissions=[your permission integer here]`
 - Select your server from the list
 
-6. Get your bot's secret token from the developer portal and put it in the .env file in the respective place.
+6. Create a file called ".env".
 
-7. Launch the bot
+7. Get your bot's secret token from the developer portal as well as a "Open Weather API Key" (found on
+[OpenWeather](https://openweathermap.org)) put it in the .env file in the respective place:
+
+```env
+TOKEN = ""
+OPENWEATHERMAP_KEY = ""
+```
+
+8. Launch the bot
 
 - `python3 bot.py`
+
+*if you need any help, feel free to contact me on discord: bruhs#7404*
 
 ## Features
 
@@ -61,7 +72,6 @@
 ➣ Member Count
 
 <img src="https://user-images.githubusercontent.com/67598470/201565610-7d06afeb-d1af-48bf-9a0c-5c258399864c.png" alt="Member Example" width=35% height=35%>
-
 
 ## What's included
 
