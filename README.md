@@ -23,7 +23,6 @@
 
 - [Bruh-Bot](#bruh-bot)
   - [Table of contents](#table-of-contents)
-  - [Want to host your own version of Bruh-Bot? (UNDER 5 MINUTES!)](#want-to-host-your-own-version-of-bruh-bot-under-5-minutes)
   - [Quick start](#quick-start)
     - [Instructions](#instructions)
   - [Planned features](#planned-features)
