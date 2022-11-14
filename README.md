@@ -23,6 +23,7 @@
 
 - [Bruh-Bot](#bruh-bot)
   - [Table of contents](#table-of-contents)
+  - [Want to host your own version of Bruh-Bot? (UNDER 5 MINUTES!)](#want-to-host-your-own-version-of-bruh-bot-under-5-minutes)
   - [Quick start](#quick-start)
     - [Instructions](#instructions)
   - [Planned features](#planned-features)
@@ -32,8 +33,28 @@
   - [Thanks](#thanks)
   - [Copyright and license](#copyright-and-license)
 
-## Quick start
+## Want to host your own version of Bruh-Bot? (UNDER 5 MINUTES!)
+Simple and fast! Just follow the instructions below and you'll be up and running in no time!
+ <p align="center">
+ <a
+    href="https://replit.com/@aidan4043/Bruh-Bot-Boilerplate?v=1"
+    target="_blank"
+    rel="noreferrer">
+    <img
+      src="https://repl.it/badge/github/vcodes-xyz/bot-list"
+      alt="Replit"/> </a> </p>
 
+1. Create an account on replt.com
+2. Press the button above!
+3. Press the button called "Fork Repl"
+4. Insert your bot token in the SECRET section - call it "DISCORD_BOT_SECRET"
+5. Add your OpenWeatherMap API key in the SECRET section - call it "OPENWEATHERMAP_KEY"
+6. Press the green "Run" button
+7. Press the top left where it says "Bruh Bot Boilerplate
+8. There should be an option for Always On, check it! And you're done! (If you want to monitor the bot, please use uptimerobot.com ) [instructions here: <https://www.youtube.com/watch?t=275&v=wnb1-beuRB4&feature=youtu.be>]
+9. Invite your bot to your server!
+:) enjoy!
+## Quick start
 ### Instructions
 
 1. Clone the repository
