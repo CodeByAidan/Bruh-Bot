@@ -44,9 +44,47 @@ class Commands(commands.Cog):
             z = x["weather"]
             weather_description = z[0]["description"]
             weather_description = z[0]["description"]
+            if z[0]["icon"] == "01d":
+                color = 0x87CEEB
+            elif z[0]["icon"] == "01n":
+                color = 0x87CEEB
+            elif z[0]["icon"] == "02d":
+                color = 0x5779C7
+            elif z[0]["icon"] == "02n":
+                color = 0x5779C7
+            elif z[0]["icon"] == "03d":
+                color = 0xACBDE3
+            elif z[0]["icon"] == "03n":
+                color = 0xACBDE3
+            elif z[0]["icon"] == "04d":
+                color = 0x8495BD
+            elif z[0]["icon"] == "04n":
+                color = 0x8495BD
+            elif z[0]["icon"] == "09d":
+                color = 0xCCCACA
+            elif z[0]["icon"] == "09n":
+                color = 0xCCCACA
+            elif z[0]["icon"] == "10d":
+                color = 0xCCCACA
+            elif z[0]["icon"] == "10n":
+                color = 0xCCCACA
+            elif z[0]["icon"] == "11d":
+                color = 0x828080
+            elif z[0]["icon"] == "11n":
+                color = 0x828080
+            elif z[0]["icon"] == "13d":
+                color = 0xFFFAFA
+            elif z[0]["icon"] == "13n":
+                color = 0xFFFAFA
+            elif z[0]["icon"] == "50d":
+                color = 0xD7D7D7
+            elif z[0]["icon"] == "50n":
+                color = 0xD7D7D7
+            else:
+                color = 0xFF0000                           
             embed = discord.Embed(
                 title=f"Weather in {city_name}",
-                color=ctx.guild.me.top_role.color,
+                color= color,
                 timestamp=datetime.datetime.now(datetime.timezone.utc),
             )
 
