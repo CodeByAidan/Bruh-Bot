@@ -21,7 +21,7 @@ token = os.getenv("TOKEN")
 bot.remove_command("help")
 
 
-for filename in os.listdir(r"src/cogs/Info"):
+for filename in os.listdir(r"cogs/Info"):
     if filename.endswith(".py"):
         bot.load_extension(f"cogs.Info.{filename[:-3]}")
         print(f"{filename} loaded!")
