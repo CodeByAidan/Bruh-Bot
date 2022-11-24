@@ -37,6 +37,7 @@ jobs:
           host: ${{ secrets.HOST_IP }}
           username: ${{ secrets.HOST_USERNAME }}
           script: |
+            apt update -y && curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - && apt install -y nodejs
             pm2 delete all
             cd /root/Bruh-Bot/src
             git pull
