@@ -62,8 +62,6 @@ OPENWEATHERMAP_KEY = ""
 
 - `python3 bot.py`
 
-*if you need any help, feel free to contact me on discord: bruhs#7404*
-
 ## Features
 
 ➣ Weather
